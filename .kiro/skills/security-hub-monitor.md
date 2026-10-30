@@ -1,4 +1,4 @@
-# Security Hub Monitor & Remediation
+# sample-Findings monitoring and remediation for use with AWS Security Hub
 
 ## Description
 A Kiro skill for querying AWS Security Hub findings, triaging them by severity, and applying automated or guided remediation. Designed for security engineers and DevOps teams who want to stay on top of their cloud security posture directly from the IDE.

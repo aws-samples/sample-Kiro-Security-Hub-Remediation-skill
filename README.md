@@ -1,4 +1,4 @@
-# Kiro Security Hub Skill
+# sample-Findings monitoring and remediation for use with AWS Security Hub
 
 A shareable Kiro skill for monitoring and remediating AWS Security Hub findings directly from your IDE. Drop it into any project and your team gets on-demand security posture checks, guided remediation, and IaC fix generation.
 
