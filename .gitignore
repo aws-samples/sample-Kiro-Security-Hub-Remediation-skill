@@ -1,0 +1,17 @@
+# AWS local artifacts / credentials — never commit
+.aws/
+aws.json
+credentials
+*.pem
+*.key
+
+# Local finding exports / scratch output
+*.local.json
+findings-*.json
+*.out
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
